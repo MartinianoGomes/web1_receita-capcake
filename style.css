@@ -1,6 +1,12 @@
+@font-face {
+    font-family: 'Alice';
+    src: url('fonts/Alice-Regular.ttf') format('truetype');
+}
+
 * {
     margin: 0;
     padding: 0;
+
     font-family: 'Alice', serif;
 }
 
@@ -11,7 +17,6 @@ body {
     justify-content: center;
 
     margin: 2%;
-    
 }
 
 .background {
